@@ -9,3 +9,4 @@ A Django-based web chatbot that talks to users, gathers mental health informatio
 3. Add your OpenAI API key in `views.py`
 4. Run server: `python manage.py runserver`
 5. Visit `http://127.0.0.1:8000/chat/`
+6. python -m venv venv for venv
